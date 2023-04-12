@@ -2,4 +2,4 @@
 AI framework prompts
 
 
-[chatgpt](gt)
+[chatgpt](gpt-prompts.md)
